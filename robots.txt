@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://poisonmad.github.io/koleksi/sitemap.xml
